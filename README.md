@@ -9,6 +9,26 @@ Bitcoin was created by Satoshi Nakamoto who envisioned a currency that was not t
 What does not differ is that to hold any of these currencies, you need a digital wallet and a way to buy and sell them. A wallet is where one stores their crypto. Some wallets can even hold multiple types. Wallets generally mean having a public address and a private key. The public address is what you share with others when you want to receive crypto currency. In other words, you can share your public key with others (and for many cryptocurrencys the public ledger makes your address public anyway). Your private key you should never share with anyone. It is your only way to have access to the currency in the wallet. Save both of your keys somewhere safe. Really safe. There are special USB drives you can buy to do this for you. If you lose your private key, then your currency will remain in your wallet until Kim Jong Un nukes us all.
 
 
+## Cryptocurrencys
+| Ticker | Symbol | Crypto   |
+|:------:|--------|----------|
+| BTC    | ฿      | Bitcoin  |
+| ETH    | Ξ      | Ethereum | 
+| XRP    | Ʀ      | Ripple   |
+| MIOTA  | I      | Iota     |
 
+
+
+### Bitcoin
+This one was explained above. This is a mineable currency but not worth your time unless your'e [firing up some Asics](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit). With the highest market cap around $75 billion and just under a 50% market share among all cryptocurrencys, it is safe to say this is the most popular of them all. While first to market may be a good reason to think it will remain on top, other crptos have superior technologies that have stemmed off the some of the basic principles of Bitcoin. Transactions were limited to 7 per second but that it is rapidly changing with [SegWit](http://www.investopedia.com/terms/s/segwit-segregated-witness.asp) and other initiatives. Trading Bitcoin is very easy as virtually every excahnge trades it. Your wallet is composed of a Bitcoin address, which is public and you share,and a private key that you use to access your Bitcoin. Websites like [wallet generator](https://walletgenerator.net/), [brain wallet](https://brainwallet.io/), and [Electum](https://electrum.org/#home) generate wallets that you can use. Bitcoin does not need to be traded in whole bitcoins for a transaction. 
+
+
+
+| Unit          | Abbrv.| Decimal (BTC) |
+|:-------------:|-------|---------------|
+| deca-bitcoin  | daBtc | 10            |
+| bitcoin       | Btc   | 1             |
+| deci-bitcoin  | dBtcv | 0.1           |
+| centi-bitcoin | cBtC  | 0.01          |
 
 

@@ -58,3 +58,23 @@ A crypto focused on the Internet of Things (IoT). With transactions capable of u
 | Mi   | Mega Iota | 1,000,000             |
 | Ki   | Kilo Iota | 1,000                 |
 | i    | Iota      | 1                     |
+
+
+## Exchanges
+You will want to register with an excahnge to buy and sell your cryptos. Note that you do not need to use an excahnge to transfer currencies between wallets. Exchanges vary in the currencies that they trade. As of recently, since many exchanges are not in the US and legality in limbo in tandem with an influx of trading volume, United States residents may be limited in their trading functionality. Security should always be a consideration when choosing an exchange. Keep this in mind if you want to transfer money from a bank account to one of these exchanges. Keep your tokens in your cold wallets and only move them into your exchange when you are making trades. You will not want to run any risk of losing money in an exchange wallet if the excahnge gets hacked or goes down. Registration will be required for most exchanges and this can include providing photo ID, SSN, a day of registration photo, name, and address. Reigstration approval can take days or weeks and with the *recent* spark in crypto many exchanges are slow in dealing with the registration barrage. You will be able to move the cryptos supported to and from your cold wallets and to other exchanges as well. They can charge fees for buying, selling, and transferring currencies in or out.
+
+Getting started likely means opening up an account with an exchange and wiring money from your bank account. You can expect to pay $15-$45 in wire transfer fees depeneding on your bank and if its a domestic or international transfer. Each exchange lists their trading and withdrawal fees. Keep on the lookout for crypto new and exchange alerts because acting fast may be the key to saving your wallet's funds.
+
+* [Kraken](https://www.kraken.com/) BTC, ETH, XRP, XMR, more
+* [Gatehub](https://gatehub.net/)   BTC, ETH, XRP, more
+* [Bitfinex](https://www.bitfinex.com/) BTC, ETH, XRP, IOTA, XMR, NEO
+* [Binance](https://www.binance.com/) BTC, ETH, OMG, DNT
+* [GDAX](https://www.gdax.com/trade/BTC-USD) / [Coinbase](https://www.coinbase.com/)  BTC, ETH, LTC
+
+* [Cryptocurrency Market Data](https://coinmarketcap.com/)
+* [Reddit Cryptocurrency Multireddit](https://www.reddit.com/r/multihub/submit?url=https://www.reddit.com/user/HDfried/m/cryptos/)
+* [Ripple client](https://jatchili.github.io/minimalist-ripple-client/)
+* [Iota Index](http://www.iotaindex.com/)
+
+Now, get trading. Contact your local cyrpto dealer and keep on HODLing.  
+

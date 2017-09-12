@@ -41,3 +41,9 @@ A [smart contract](https://en.wikipedia.org/wiki/Smart_contract) public blockcha
 | Ether  | 1     |
 | Kether | 0.001 | 
 
+
+### Ripple
+Developed with the intent of being a bank transaction settlement token, [Ripple](https://ripple.com/) is a pre-mined currency with a market cap of $8 billion. Some banks are currently utilizing and experimenting with Ripple's netowork but do not necessarily need to hold or use XRP to do so. The network is based on trusts set between users and the network confrims transactions via this chaining of trusts. Wallets need to hold a minimum of 15 XRP to help facilitate thise network of trusts. They can be geneated easily [here](https://ihomp.github.io/ripply-paper-wallet/coldwallet-SHA1-cdfbe3260927b6073180a1099f02ef99ce0495e8.html). Wallet balance and transactions can be viewed on [Bithomp](https://bithomp.com/). XRP is traded on most major exchanges. 
+
+> XRP as currently implemented has six digits of precision. The smallest unit is one millionth of an XRP ( 0.000001 ) and is called a "drop". That is: 1 XRP = 1,000,000 drops. -Wikipedia
+

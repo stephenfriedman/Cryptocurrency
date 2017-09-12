@@ -47,3 +47,14 @@ Developed with the intent of being a bank transaction settlement token, [Ripple]
 
 > XRP as currently implemented has six digits of precision. The smallest unit is one millionth of an XRP ( 0.000001 ) and is called a "drop". That is: 1 XRP = 1,000,000 drops. -Wikipedia
 
+### IOTA
+A crypto focused on the Internet of Things (IoT). With transactions capable of up to 16 decimal places, micro transactions are possible which would be a necessity for IoT sensors in exchanging data with one another. It is still in its early phases and began trading on exchanges this past June. Wallets can be downloaded on [Github](https://github.com/iotaledger/wallet/releases). [MWJ](https://matthewwinstonjohnson.gitbooks.io/iota-guide-and-faq/getting-started/dl-wallet/what-is-my-seed.html) has a great guide on getting setup with the wallet and generating a seed.
+
+| Abbrv.| Unit      | Decimal (IOTA)        |
+|:----:|-----------|-----------------------|
+| Pi   | Peta Iota | 1,000,000,000,000,000 |
+| Ti   | Tera Iota | 1,000,000,000,000     |
+| Gi   | Giga Iota | 1,000,000,000         |
+| Mi   | Mega Iota | 1,000,000             |
+| Ki   | Kilo Iota | 1,000                 |
+| i    | Iota      | 1                     |

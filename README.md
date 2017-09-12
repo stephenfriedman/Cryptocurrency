@@ -32,3 +32,12 @@ This one was explained above. This is a mineable currency but not worth your tim
 | centi-bitcoin | cBtC  | 0.01          |
 
 
+### Ethereum
+A [smart contract](https://en.wikipedia.org/wiki/Smart_contract) public blockchain based token second to Bitcoin at $30 billion. Many other cryptocurrencys utilize Ethereum's smart contract technology. Ethereum functions as a smart contract environment that can be used in [DAPPS](https://blockgeeks.com/guides/dapps-the-decentralized-future/). Wallets can be easiy made at [MyEtherWallet](https://www.myetherwallet.com/). Ethereum addresses are capable of holding Ethereum and other ERC20 based tokens. Ethereum is widely available and is listed on most exchanges. Ethereum tokens like [district0x](https://district0x.io/) and [OmiseGo](https://omg.omise.co/) leverage smart contracts in their applications.
+
+| Unit   | Decimal (ETH) |
+|:------:|---------------|
+| Finney | 1000  |
+| Ether  | 1     |
+| Kether | 0.001 | 
+

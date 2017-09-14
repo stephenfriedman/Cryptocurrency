@@ -5,8 +5,7 @@ riches but cryptocurrencys are at the very least an investment to consider. This
 of cryptocurrencys, setting up wallets, choosing an exchange, and my own two cents.
 
 Bitcoin is what you may be most familiar with but what you may not understand is how it differs from "Altcoins". Altcoin is just an 
-encompassing term for pretty much any crypto that's not Bitcoin (Ethereum, Litecoin, Ripple, Dogecoin). As of 9/6/2017 [Coin Marketcap]
-(https://coinmarketcap.com/all/views/all/) is listing over 1,000 assets and currencies. What fundamentally differentiates each is 
+encompassing term for pretty much any crypto that's not Bitcoin (Ethereum, Litecoin, Ripple, Dogecoin). As of 9/6/2017 [Coin Marketcap](https://coinmarketcap.com/all/views/all/) is listing over 1,000 assets and currencies. What fundamentally differentiates each is 
 generally its public ledger, transaction handling, and mission behind it. I will cover a few of the differences between some of the more 
 popular cryptocurrencies.
 

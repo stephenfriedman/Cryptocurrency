@@ -39,12 +39,10 @@ will remain in your wallet until Kim Jong Un nukes us all.
 
 
 ### Bitcoin
-This one was explained above. This is a mineable currency but not worth your time unless your'e [firing up some ASICs]
-(https://en.wikipedia.org/wiki/Application-specific_integrated_circuit). With the highest market cap of $75 billion and just under a 50% 
+This one was explained above. This is a mineable currency but not worth your time unless your'e [firing up some ASICs](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit). With the highest market cap of $75 billion and just under a 50% 
 market share among all cryptocurrencys, it is safe to say this is the most popular of them all. While first to market may be a good 
 reason to think it will remain on top, other crptos have superior technologies that have stemmed off some of the basic principles of 
-Bitcoin. Transactions were limited to 7 per second but that is rapidly changing with [SegWit]
-(http://www.investopedia.com/terms/s/segwit-segregated-witness.asp) and other initiatives. Trading Bitcoin is very easy as virtually 
+Bitcoin. Transactions were limited to 7 per second but that is rapidly changing with [SegWit](http://www.investopedia.com/terms/s/segwit-segregated-witness.asp) and other initiatives. Trading Bitcoin is very easy as virtually 
 every excahnge trades it. Your wallet is composed of a Bitcoin address, which is public and you share, and a private key that you use to 
 access your Bitcoin. Websites like [Wallet Generator](https://walletgenerator.net/), [Brain Wallet](https://brainwallet.io/), and 
 [Electum](https://electrum.org/#home) generate wallets that you can use. Bitcoin does not need to be traded in whole bitcoins for a 
@@ -66,10 +64,8 @@ transaction.
 ### Ethereum
 A [smart contract](https://en.wikipedia.org/wiki/Smart_contract) public blockchain based token second to Bitcoin at $30 billion. Many 
 other cryptocurrencys utilize Ethereum's smart contract technology. Ethereum functions as a smart contract environment that can be used 
-in [DAPPS](https://blockgeeks.com/guides/dapps-the-decentralized-future/). Wallets can be easiy made at [MyEtherWallet]
-(https://www.myetherwallet.com/). Ethereum addresses are capable of holding Ethereum and other ERC20 based tokens. Ethereum is widely 
-available and is listed on most exchanges. ERC20 tokens like [district0x](https://district0x.io/) and [OmiseGo]
-(https://omg.omise.co/) leverage smart contracts in their applications.
+in [DAPPS](https://blockgeeks.com/guides/dapps-the-decentralized-future/). Wallets can be easiy made at [MyEtherWallet](https://www.myetherwallet.com/). Ethereum addresses are capable of holding Ethereum and other ERC20 based tokens. Ethereum is widely 
+available and is listed on most exchanges. ERC20 tokens like [district0x](https://district0x.io/) and [OmiseGo](https://omg.omise.co/) leverage smart contracts in their applications.
 
 | Unit   | Decimal (ETH)       |
 |:------:|---------------------|
@@ -86,8 +82,7 @@ available and is listed on most exchanges. ERC20 tokens like [district0x](https:
 Developed with the intent of being a bank transaction settlement token, [Ripple](https://ripple.com/) is a pre-mined currency with a 
 market cap of $8 billion. Some banks are currently utilizing and experimenting with Ripple's netowork but do not necessarily need to 
 hold or use XRP to do so. The network is based on trusts set between users and the network confrims transactions via this chaining of 
-trusts. Wallets need to hold a minimum of 15 XRP to help facilitate this network of trusts. They can be geneated easily [here]
-(https://ihomp.github.io/ripply-paper-wallet/coldwallet-SHA1-cdfbe3260927b6073180a1099f02ef99ce0495e8.html). Wallet balances and 
+trusts. Wallets need to hold a minimum of 15 XRP to help facilitate this network of trusts. They can be geneated easily [here](https://ihomp.github.io/ripply-paper-wallet/coldwallet-SHA1-cdfbe3260927b6073180a1099f02ef99ce0495e8.html). Wallet balances and 
 transaction history can be viewed on [Bithomp](https://bithomp.com/). XRP is traded on most major exchanges. 
 
 > XRP as currently implemented has six digits of precision. The smallest unit is one millionth of an XRP ( 0.000001 ) and is called a 

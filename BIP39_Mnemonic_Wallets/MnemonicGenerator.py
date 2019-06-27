@@ -1,6 +1,13 @@
 import hashlib
 import binascii
+import sys
 
+import bisect
+import hmac
+import itertools
+import os
+import sys
+import unicodedata
 # Word list comes from here:
 # https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 text_file = open("wordList.txt", "r")
@@ -52,12 +59,35 @@ for num in range(1,265):
     WordNumbers.append(decimal)
     WordCounter=WordCounter+1
     mnemonics.append(wordList[decimal])
-    print("word #",WordCounter," ---> ",ElevenBits," -----> ",decimal," ---> ",wordList[decimal],"\n");
+    print("word #",WordCounter," ---> ",ElevenBits," -----> ",decimal," ---> ",wordList[decimal],"\n")
     ElevenBits = ""
 
 # Print out the 24 words
 print("     YOUR 24 WORDS")
 print("----------------------")
+wordAsString = ""
+counter = 1
 for word in mnemonics:
   print("       ",word)
+  wordAsString += word
+  if counter < 24:
+    wordAsString += " "
+  counter = counter +1
 print("----------------------")
+
+mnemonic = wordAsString 
+# optional password
+passphrase=""
+
+def to_seed(mnemonic, passphrase=""):
+        passphrase = "mnemonic" + passphrase
+        mnemonic = mnemonic.encode("utf-8")
+        passphrase = passphrase.encode("utf-8")
+        # This is the magic as specified in the bip39 spec
+        stretched = hashlib.pbkdf2_hmac("sha512", mnemonic, passphrase, 2048)
+        return stretched[:64]
+
+# Convert word list into bip39 seed
+seed = to_seed(mnemonic,passphrase)
+binarySeed=binascii.hexlify(seed)
+print(binarySeed.decode("utf-8"))
